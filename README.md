@@ -48,6 +48,66 @@ You can easily find all the texts on Library Genesis: https://libgen.li/
 
 P/S: If you buy a new PC/Laptop, try to get something with a Windows “Pro” license, not “Home.”
 
+## Scheulde
+**Week 1**
+- Lecture 0: Course Documents and Overview
+- Lecture 1: Unix History and Design Concepts
+- Lab 0: Unix Basics, Lab Setup, and SSH Key-Based Authentication
+- Reading: Read Nemeth 1 and 7
+
+**Week 2**
+- Lab 1: OpenBSD, TCP/IP, and DNS with BIND9
+- Lecture 2: Demo Day - OpenBSD Installation, vi, screen, script, and Shell Scripting Demos
+- Lecture 3: TCP/IP, DNS, NAT, and Lab Network Architecture
+- Lab 1b: Directory Services (OpenLDAP) and Certificates (OpenSSL/LibreSSL)
+- Reading: Kochan 1-8, Skim Nemeth 7, 13, 14, 15, 16
+
+**Week 3**
+- Lecture 4: Licensing, Filesystems, and the File Namespace, man, and the Command Line
+- Lecture 5: Booting, Init and Initialization, Service Management, and Troubleshooting
+- Lab 2: E-mail Server on FreeBSD with Sendmail and Dovecot
+- Reading: Skim Nemeth 2, 5, 20, 21, 22
+
+**Week 4**
+- Lab 3: File Server on Rocky Linux with NFS
+- Lecture 6: argv, fork/exec, the Kernel, the Linker, Libraries, and Processes
+- Lab 4: Ubuntu Linux, Docker, and Web Server with NGINX
+- Reading: Skim Nemeth 4, 11
+
+**Week 5**
+- Lecture 7: Web Servers and Mail Servers
+- Lab 5: Commercial Unix, Solaris
+- Reading: Skim Nemeth 12, 18, 19
+
+**Week 6**
+- Lecture 8: User Management, Authentication, and Access Control
+- Lab 5b: Commercial Unix, AIX
+- Reading: Skim Nemeth 3, 8, 17
+
+**Week 7**
+- Lecture 9: Trusted Computing, Security, Backups, Service Levels, and Business Continuity
+- Lab 6: Private Cloud with VMware ESXi and Backups
+- Reading: Skim Nemeth 27, 31
+
+**Week 8**
+- Lecture 10: Hosting, Virtualization, Containerization, the Cloud, and Automation
+- Lab 7: GitLab in a Public Cloud Service with Azure
+- Reading: Skim Nemeth 9, 23, 24, 25, 30
+
+**Week 9**
+- Lecture 11: Version Control, Archiving, Logging, and Monitoring
+- Lab 8: Ansible, Automation, and Centralized Logging with Syslog
+- Reading: Skim Nemeth 10, 28, 29
+
+**Week 10**
+- Lecture 12: Compiling Software, Package Management, Software Updates, and Grading
+- Lab 9: Patching, Updates, and Self-Service Grading with the Reaper
+- Reading: Skim Nemeth 6, 26
+
+**Week 11**
+- Lab Day - No Lecture
+- Final Exam
+
 ## Getting Started
 To get started with this repository, follow these steps:
 1. Clone the repository to your local machine using git clone https://github.com/username/UnixSysAdmin2023-Mastering-Shell-to-Cloud.git
